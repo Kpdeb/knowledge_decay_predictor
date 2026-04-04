@@ -130,3 +130,4 @@ Output: retention probability (0–1)
 Email: demo@knowdecay.ai
 Password: demo1234
 ```
+you will get the required link for the demo in nthe deployment section if the repository 
