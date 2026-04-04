@@ -131,3 +131,6 @@ Email: demo@knowdecay.ai
 Password: demo1234
 ```
 you will get the required link for the demo in nthe deployment section if the repository 
+
+this is the project idea for the team for the bangal pragati hackthon which is conducted in the month of april in kolkata 
+
